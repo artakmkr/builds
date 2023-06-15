@@ -3,7 +3,7 @@
 <title>PHP Test</title>
 </head>
 <body>
-<?php echo '<p>this is index.php filed</p>'; ?> 
+<?php echo '<p>June-15</p>'; ?> 
 </body>
 </html>
 
